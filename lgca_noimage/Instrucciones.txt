@@ -1,0 +1,16 @@
+Instrucciones.txt
+
+Cambiar path de main.cpp linea 14
+
+ubicarse en la terminal en esta carpeta
+
+$ mkdir build
+
+$ cd build
+
+$ cmake ..
+
+$ make
+
+$ ./lgca 1
+($ ./lgca 2)
