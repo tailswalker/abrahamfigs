@@ -1,3 +1,0 @@
-/home/muon02/Documents/Tesis/lgca_1d/build/CMakeFiles/rebuild_cache.dir
-/home/muon02/Documents/Tesis/lgca_1d/build/CMakeFiles/edit_cache.dir
-/home/muon02/Documents/Tesis/lgca_1d/build/CMakeFiles/lgca.dir
