@@ -1,4 +1,4 @@
-# This is the code for the simulations of the paper "On the onset of multicellular invasive behavior in hierarchical lineage: the role of inhibitory feedback and local flurctuations."
+# This is the code for the simulations of the paper "On the onset of multicellular invasive behavior in hierarchical lineage: the role of inhibitory feedback and local fluctuations."
 
 The simulations run on C++, and the output of these is graphed and visualized using a Jupyter Notebook in Python. Depending on the desired output, the simulations are divided into five different headers, contained in the directory "simulations". In each header file (files of the form *.h), one can change the simulation parameters in the first 20 lines of the code. These are the variables that can be assigned numerical values.
 To perform the simulations, please follow these steps:
